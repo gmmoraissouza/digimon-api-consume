@@ -1,16 +1,16 @@
-# digimon_api_consume
+## About project
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter que apresenta as fases evolutivas dos principais _Digimons_ de uma famosa série animada
 
-## Getting Started
+## Packages used:
 
-This project is a starting point for a Flutter application.
+- 📁 _PROVIDER_ para gerência de estado;
+- 📁 _JSON_SERIALIZABLE_ para geração de códigos das classes;
+- 📁 _DIO_ para consumo Web;
 
-A few resources to get you started if this is your first Flutter project:
+## Credits to API resource
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Esta _REST API_ retorna dezenas de Digimons com seus nível, imagem e nome
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### https://digimon-api.vercel.app/index.html
+
